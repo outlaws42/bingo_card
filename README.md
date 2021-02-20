@@ -1,16 +1,11 @@
-# bingo_test
+#.Bingo.Card
 
-A new Flutter project.
+##.Android/iOS
 
-## Getting Started
+I.created.this.as.a.simple.bingo.card.app..My.intenet.was.to.compile.this.for.Android.and.iOS.
+I.have.not.published.this.in.either.store.because.it.was.learning.app.to.improve.my.skills.in
+Flutter/Dart...We.did.test.it.out.at.Christmas.this.past.year.and.it.seemed.to.work.very.well.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Use
+You.can.clone.the.repo.and.use.it.as.you.like..In.its.current.state.it.should.compile.just.fine
+for **Linux,.iOS.and.Android**..I.did.not.test.it.on.MacOS.or.Windows.
